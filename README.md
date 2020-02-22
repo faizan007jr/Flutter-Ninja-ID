@@ -1,2 +1,2 @@
-# Flutter-Ninja-ID
- First Flutter APP
+# ninja_id
+ My First Flutter APP
